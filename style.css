@@ -1,8 +1,9 @@
-
 @font-face {
   font-family: 'DNFBitBitv2';
   font-weight: 400;
-  src: url('//cdn.df.nexon.com/img/common/font/DNFBitBitv2.otf') format('opentype');
+  src: url('https://cdn.df.nexon.com/img/common/font/DNFBitBitv2.woff2') format('woff2'),
+       url('https://cdn.df.nexon.com/img/common/font/DNFBitBitv2.woff') format('woff'),
+       url('https://cdn.df.nexon.com/img/common/font/DNFBitBitv2.otf') format('opentype');
 }
 
 body {
